@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi 👋, I am Benjamin!
 
-<!--
-**BenjaminLon/BenjaminLon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A dedicated software developer with a passion for environmental computer science and cutting-edge technology!
 
-Here are some ideas to get you started:
+💻 Currently working as a software developer at Lufthansa Systems with a specialization in innovative frontend and web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Pursuing postgraduate studies at the University of Applied Sciences in Berlin, focusing on advancing skills in backend development, green IT and software architecture.
+
+🚀 Passionate about creating seamless user experiences and robust software solutions.
+
+## Feel free to say Hi!
+<p align="left">
+<a href="https://www.linkedin.com/in/banias/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/benjamin-loncarevic-2796a6200/" height="30" width="40" /></a>
+
