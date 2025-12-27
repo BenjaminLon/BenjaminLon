@@ -15,6 +15,12 @@ A dedicated software developer with a passion for environmental computer science
     <img src="https://skillicons.dev/icons?i=git,bash,neovim,docker,kubernetes" />
   </a>
   <br><br>
+    
+  <b>IoT & Cloud</b><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,azure,gcp" />
+  </a>
+  <br><br>
 
   <b>Languages</b><br>
   <a href="https://skillicons.dev">
@@ -31,12 +37,6 @@ A dedicated software developer with a passion for environmental computer science
   <b>Operating Systems</b><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arch,linux" />
-  </a>
-  <br><br>
-
-  <b>IoT & Cloud</b><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,azure,gcp" />
   </a>
 </p>
 ## Feel free to say Hi!
