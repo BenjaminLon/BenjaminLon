@@ -11,31 +11,26 @@ A dedicated software developer with a passion for environmental computer science
 ## 🛠️ Skills
 <p>
   <b>General</b><br>
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,bash,neovim,docker,kubernetes" />
   </a>
   <br><br>
     
   <b>IoT & Cloud</b><br>
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=azure,gcp" />
   </a>
   <br><br>
 
   <b>Languages</b><br>
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,py,js,ts,html,css,sass" />
   </a>
   <br><br>
 
   <b>Frameworks</b><br>
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,vue,nodejs,vite,dotnet,express,jest" />
   </a>
   <br><br>
 
   <b>Operating Systems</b><br>
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arch,linux" />
   </a>
 </p>
