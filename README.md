@@ -8,28 +8,37 @@ A dedicated software developer with a passion for environmental computer science
 
 🚀 Passionate about creating seamless user experiences and robust software solutions. Anything FOSS is awesome btw.
 
+## 🛠️ Skills
 <p align="center">
+  <b>General</b><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,bash,neovim,docker,kubernetes" />
   </a>
-  <br>
+  <br><br>
+
+  <b>Languages</b><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,py,js,ts,html,css,sass" />
   </a>
-  <br>
+  <br><br>
+
+  <b>Frameworks</b><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,vue,nodejs,vite,dotnet,express,jest" />
   </a>
-  <br>
+  <br><br>
+
+  <b>Operating Systems</b><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arch,linux" />
   </a>
-  <br>
+  <br><br>
+
+  <b>IoT & Cloud</b><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arduino,azure,gcp" />
   </a>
 </p>
-
 ## Feel free to say Hi!
 <p align="left">
 <a href="https://de.linkedin.com/in/benjamin-loncarevic-2796a6200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://de.linkedin.com/in/benjamin-loncarevic-2796a6200" height="30" width="40" /></a>
