@@ -9,7 +9,7 @@ A dedicated software developer with a passion for environmental computer science
 🚀 Passionate about creating seamless user experiences and robust software solutions. Anything FOSS is awesome btw.
 
 ## 🛠️ Skills
-<p align="center">
+<p>
   <b>General</b><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,bash,neovim,docker,kubernetes" />
